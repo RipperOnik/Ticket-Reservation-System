@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\bin\Debug\net6.0-windows\Project.exe
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\bin\Debug\net6.0-windows\Project.deps.json
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\bin\Debug\net6.0-windows\Project.runtimeconfig.json
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\bin\Debug\net6.0-windows\Project.dll
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\bin\Debug\net6.0-windows\Project.pdb
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\Project.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\Project.Form1.resources
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\Project.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\Project.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\Project.AssemblyInfo.cs
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\Project.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\Project.dll
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\refint\Project.dll
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\Project.pdb
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\Project.genruntimeconfig.cache
+\\Mac\Home\Documents\Software Development Techniques\Project\Project\obj\Debug\net6.0-windows\ref\Project.dll
